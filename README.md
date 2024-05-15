@@ -4,7 +4,7 @@ This program will basically detects almost rickroll link, so if you dont want to
 
 HOW TO SETUP?
 
-First run the "Chromedriver Path Finder.exe" - it will tell your chromedriver.exe path
+First run the "Chromedriver Path Finder.exe" - it will tell your chromedriver.exe path (you can find it when you click releases and more)
 
 Open chromedriverpath.txt file and paste inside your chromedriver path
 
